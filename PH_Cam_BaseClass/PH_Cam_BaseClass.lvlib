@@ -58,6 +58,7 @@
 		<Item Name="PH_Cam_BaseClass.evt Cam on.vi" Type="VI" URL="../PH_Cam_BaseClass.evt Cam on.vi"/>
 		<Item Name="PH_Cam_BaseClass.get data to modify.vi" Type="VI" URL="../PH_Cam_BaseClass.get data to modify.vi"/>
 		<Item Name="PH_Cam_BaseClass.GUI Refs.ctl" Type="VI" URL="../PH_Cam_BaseClass.GUI Refs.ctl"/>
+		<Item Name="PH_Cam_BaseClass.pack PSDB Data.vi" Type="VI" URL="../PH_Cam_BaseClass.pack PSDB Data.vi"/>
 		<Item Name="PH_Cam_BaseClass.panel.vi" Type="VI" URL="../PH_Cam_BaseClass.panel.vi"/>
 		<Item Name="PH_Cam_BaseClass.Proc Prc Prdc.vi" Type="VI" URL="../PH_Cam_BaseClass.Proc Prc Prdc.vi"/>
 		<Item Name="PH_Cam_BaseClass.read DB.vi" Type="VI" URL="../PH_Cam_BaseClass.read DB.vi"/>

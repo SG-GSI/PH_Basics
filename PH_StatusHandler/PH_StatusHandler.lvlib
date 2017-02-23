@@ -27,6 +27,7 @@
 		<Item Name="PH_StatusHandler.get Status DIM Service.vi" Type="VI" URL="../PH_StatusHandler.get Status DIM Service.vi"/>
 		<Item Name="PH_StatusHandler.get Status.vi" Type="VI" URL="../PH_StatusHandler.get Status.vi"/>
 		<Item Name="PH_StatusHandler.GUI element.ctl" Type="VI" URL="../PH_StatusHandler.GUI element.ctl"/>
+		<Item Name="PH_StatusHandler.pack PSDB Data.vi" Type="VI" URL="../PH_StatusHandler.pack PSDB Data.vi"/>
 		<Item Name="PH_StatusHandler.panel.vi" Type="VI" URL="../PH_StatusHandler.panel.vi"/>
 		<Item Name="PH_StatusHandler.PC set Status.vi" Type="VI" URL="../PH_StatusHandler.PC set Status.vi"/>
 		<Item Name="PH_StatusHandler.set GUI Refs.vi" Type="VI" URL="../PH_StatusHandler.set GUI Refs.vi"/>

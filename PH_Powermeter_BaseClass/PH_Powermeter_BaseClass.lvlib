@@ -40,6 +40,7 @@
 		<Item Name="PH_Powermeter_BaseClass.get State.vi" Type="VI" URL="../PH_Powermeter_BaseClass.get State.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.GUI Refs.ctl" Type="VI" URL="../PH_Powermeter_BaseClass.GUI Refs.ctl"/>
 		<Item Name="PH_Powermeter_BaseClass.Head Attributes.ctl" Type="VI" URL="../PH_Powermeter_BaseClass.Head Attributes.ctl"/>
+		<Item Name="PH_Powermeter_BaseClass.pack PSDB Data.vi" Type="VI" URL="../PH_Powermeter_BaseClass.pack PSDB Data.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.panel.vi" Type="VI" URL="../PH_Powermeter_BaseClass.panel.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.PC get Energy.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC get Energy.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.PC set Connection.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC set Connection.vi"/>
@@ -48,7 +49,6 @@
 		<Item Name="PH_Powermeter_BaseClass.PC Set Scaling Factor.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC Set Scaling Factor.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.PC Set Trigger Level.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC Set Trigger Level.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.PC Set Wavelength.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC Set Wavelength.vi"/>
-		<Item Name="PH_Powermeter_BaseClass.PC Write PSDB.vi" Type="VI" URL="../PH_Powermeter_BaseClass.PC Write PSDB.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.Read Database.vi" Type="VI" URL="../PH_Powermeter_BaseClass.Read Database.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.set Connection to GUI.vi" Type="VI" URL="../PH_Powermeter_BaseClass.set Connection to GUI.vi"/>
 		<Item Name="PH_Powermeter_BaseClass.set current Setting to GUI.vi" Type="VI" URL="../PH_Powermeter_BaseClass.set current Setting to GUI.vi"/>

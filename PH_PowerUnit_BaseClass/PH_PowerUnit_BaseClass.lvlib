@@ -17,7 +17,6 @@
 		<Item Name="PH_PowerUnit_BaseClass.ProcEvents.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.ProcEvents.vi"/>
 		<Item Name="PH_PowerUnit_BaseClass.Set Constructor finished.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.Set Constructor finished.vi"/>
 		<Item Name="PH_PowerUnit_BaseClass.set i Attr and open Services.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.set i Attr and open Services.vi"/>
-		<Item Name="PH_PowerUnit_BaseClass.write PSDB.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.write PSDB.vi"/>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
@@ -67,6 +66,7 @@
 		<Item Name="PH_PowerUnit_BaseClass.SM States to Strings.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.SM States to Strings.vi"/>
 		<Item Name="PH_PowerUnit_BaseClass.SM States.ctl" Type="VI" URL="../PH_PowerUnit_BaseClass.SM States.ctl"/>
 		<Item Name="PH_PowerUnit_BaseClass.String to SM State.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.String to SM State.vi"/>
+		<Item Name="PH_PowerUnit_BaseClass.write PSDB.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.write PSDB.vi"/>
 	</Item>
 	<Item Name="PH_PowerUnit_BaseClass.contents.vi" Type="VI" URL="../PH_PowerUnit_BaseClass.contents.vi"/>
 </Library>
