@@ -51,7 +51,9 @@
 		<Item Name="PH_GUI.set U16 GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set U16 GUI object.vi"/>
 		<Item Name="PH_GUI.set U32 GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set U32 GUI object.vi"/>
 		<Item Name="PH_GUI.set U32 ring GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set U32 ring GUI object.vi"/>
+		<Item Name="PH_GUI.set waveform chart GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set waveform chart GUI object.vi"/>
 		<Item Name="PH_GUI.set waveform graph GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set waveform graph GUI object.vi"/>
+		<Item Name="PH_GUI.set waveform graph II GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set waveform graph II GUI object.vi"/>
 		<Item Name="PH_GUI.set XY graph GUI object.vi" Type="VI" URL="../GUI/PH_GUI.set XY graph GUI object.vi"/>
 		<Item Name="PH_GUI.Sevencolor.vi" Type="VI" URL="../GUI/PH_GUI.Sevencolor.vi"/>
 	</Item>
