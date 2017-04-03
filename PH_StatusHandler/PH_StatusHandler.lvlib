@@ -15,6 +15,7 @@
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="PH_StatusHandler.get i attribute.vi" Type="VI" URL="../PH_StatusHandler.get i attribute.vi"/>
+		<Item Name="PH_StatusHandler.ProcCases.vi" Type="VI" URL="../PH_StatusHandler.ProcCases.vi"/>
 		<Item Name="PH_StatusHandler.set i attribute.vi" Type="VI" URL="../PH_StatusHandler.set i attribute.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">

@@ -8,9 +8,11 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="PH_Class.i attribute.ctl" Type="VI" URL="../PH_Class.i attribute.ctl"/>
 		<Item Name="PH_Class.i attribute.vi" Type="VI" URL="../PH_Class.i attribute.vi"/>
+		<Item Name="PH_Class.ProcEvents.vi" Type="VI" URL="../PH_Class.ProcEvents.vi"/>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Item Name="PH_Class.get i attribute.vi" Type="VI" URL="../PH_Class.get i attribute.vi"/>
+		<Item Name="PH_Class.ProcCases.vi" Type="VI" URL="../PH_Class.ProcCases.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
